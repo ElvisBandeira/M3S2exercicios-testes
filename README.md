@@ -1,2 +1,2 @@
-# exercicios-testes
-Projeto para ser utilizado nos exercícios da semana de aulas de testes 
+# exercicios
+Os exercicios apresentados, tiveram como base todos os exemplos utilizados em aula.
